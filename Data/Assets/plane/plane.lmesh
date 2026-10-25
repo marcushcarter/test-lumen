@@ -1,0 +1,16 @@
+[asset]
+guid = '9cd8bb24ce4a581c'
+type = 2
+version = 1
+
+[import]
+dag_level = 'clustered_dag'
+group_size = 8
+max_levels = 10
+max_tris = 64
+max_verts = 64
+scale = 1.0
+source = 'D:/Ballistic Games/Assets/Raw/Models/primitives/plane.obj'
+
+[mesh]
+skinned = false

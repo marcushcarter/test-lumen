@@ -1,0 +1,12 @@
+[asset]
+guid = '2d2e8d083ab2ed22'
+type = 3
+version = 1
+
+[import]
+mode = 'full'
+source = 'D:/Ballistic Games/Assets/Raw/Models/primitives/plane.obj'
+
+[model]
+materials = [ '11e766ded3f58271' ]
+mesh = '9cd8bb24ce4a581c'

@@ -1,0 +1,31 @@
+[asset]
+guid = '11e766ded3f58271'
+type = 4
+version = 1
+
+[import]
+name = 'DefaultMaterial'
+source = 'D:/Ballistic Games/Assets/Raw/Models/primitives/plane.obj'
+
+[material]
+alpha_cutoff = 0.49300000071525574
+alpha_mode = 'Masked'
+ao_strength = 0.0
+ao_texture = ''
+base_color = [ 0.6000000238418579, 0.6000000238418579, 0.6000000238418579, 1.0 ]
+base_color_texture = ''
+custom = [ 0.0, 0.0, 0.0, 0.0 ]
+custom_texture = ''
+emissive_color = [ 1.0, 1.0, 1.0 ]
+emissive_nits = 0.0
+emissive_texture = ''
+metallic = 0.0
+metallic_texture = ''
+normal_scale = 1.0
+normal_texture = ''
+roughness = 0.0
+roughness_texture = ''
+shading_model = 'Default Lit'
+two_sided = true
+uv_offset = [ 0.0, 0.0 ]
+uv_scale = [ 1.0, 1.0 ]
