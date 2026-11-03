@@ -1,0 +1,15 @@
+[animation]
+duration = 3.633333444595337
+frames = 110
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = '355b24d9bcb3268e'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Breakdance Footwork To Idle.fbx'

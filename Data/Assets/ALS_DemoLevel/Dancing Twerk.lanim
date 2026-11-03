@@ -1,0 +1,15 @@
+[animation]
+duration = 15.199999809265137
+frames = 457
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = 'a8e29f98054b5fa8'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Dancing Twerk.fbx'
