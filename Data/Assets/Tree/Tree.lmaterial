@@ -1,0 +1,14 @@
+[asset]
+guid = '0c1f0a8b72a5358d'
+type = 4
+version = 1
+
+[import]
+name = 'Tree'
+source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/scene.gltf'
+
+[material]
+alpha_cutoff = 0.5
+alpha_mode = 'Opaque'
+mask_texture = ''
+two_sided = true

@@ -1,0 +1,23 @@
+[asset]
+guid = 'aa7967e6fb9eae30'
+type = 1
+version = 1
+
+[import]
+alpha_cutoff = 0.31542953848838806
+flip_green = false
+generate_mips = true
+max_size = 0
+quality = 'best'
+rdo_lambda = 0.0
+source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/textures/Leaves_baseColor.png'
+source_channel = -1
+source_height = 1024
+source_width = 1024
+
+[texture]
+channels = 4
+height = 1024
+srgb = true
+usage = 'color'
+width = 1024

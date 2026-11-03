@@ -1,0 +1,12 @@
+[asset]
+guid = '845e27d841ad99de'
+type = 3
+version = 1
+
+[import]
+mode = 'full'
+source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/scene.gltf'
+
+[model]
+materials = [ '0c1f0a8b72a5358d', '76d94c9b92a33214' ]
+mesh = '1c0121ed046105b5'

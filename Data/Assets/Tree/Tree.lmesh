@@ -1,0 +1,19 @@
+[asset]
+guid = '1c0121ed046105b5'
+type = 2
+version = 1
+
+[import]
+dag_level = 'clustered_dag'
+group_size = 8
+load_skeleton = true
+max_levels = 10
+max_tris = 64
+max_verts = 64
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 0.20000000298023224
+source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/scene.gltf'
+translation = [ 0.0, 0.0, 0.0 ]
+
+[mesh]
+skinned = false

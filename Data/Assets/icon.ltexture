@@ -1,0 +1,23 @@
+[asset]
+guid = '34001dbd31983292'
+type = 1
+version = 1
+
+[import]
+alpha_cutoff = 0.0
+flip_green = false
+generate_mips = true
+max_size = 0
+quality = 'best'
+rdo_lambda = 0.0
+source = 'D:/Dev/Lumen/assets/editor/logos/icon.png'
+source_channel = -1
+source_height = 146
+source_width = 146
+
+[texture]
+channels = 4
+height = 146
+srgb = true
+usage = 'color'
+width = 146
