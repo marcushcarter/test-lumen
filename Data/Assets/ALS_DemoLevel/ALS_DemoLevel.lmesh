@@ -1,0 +1,20 @@
+[asset]
+guid = 'ad19c4cee3b7a81a'
+type = 2
+version = 1
+
+[import]
+dag_level = 'clustered_dag'
+group_size = 8
+load_skeleton = true
+max_levels = 10
+max_tris = 64
+max_verts = 64
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/ALS_DemoLevel.fbx'
+translation = [ 0.0, 0.0, 0.0 ]
+
+[mesh]
+skeleton = 'cf5599a60117e2c2'
+skinned = true

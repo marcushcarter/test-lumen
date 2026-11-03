@@ -1,14 +1,14 @@
 [asset]
-guid = '76d94c9b92a33214'
+guid = '08b63027296f54b2'
 type = 4
 version = 1
 
 [import]
 name = 'Leaves'
-source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/scene.gltf'
+source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 
 [material]
 alpha_cutoff = 0.31542953848838806
 alpha_mode = 'Masked'
-mask_texture = 'aa7967e6fb9eae30'
+mask_texture = 'bebb909af4e13490'
 two_sided = true

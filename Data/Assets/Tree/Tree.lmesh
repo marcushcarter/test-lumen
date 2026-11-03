@@ -1,5 +1,5 @@
 [asset]
-guid = '1c0121ed046105b5'
+guid = '129a03730ccac95f'
 type = 2
 version = 1
 
@@ -11,8 +11,8 @@ max_levels = 10
 max_tris = 64
 max_verts = 64
 rotation = [ 0.0, 0.0, 0.0 ]
-scale = 0.20000000298023224
-source = 'D:/Ballistic Games/Assets/Raw/Models/realistic_high_poly_tree/scene.gltf'
+scale = 1.0
+source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
