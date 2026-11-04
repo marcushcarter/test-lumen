@@ -1,0 +1,15 @@
+[animation]
+duration = 8.333333015441895
+frames = 251
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = '0ccfe82a042529fb'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/My Locomotion/Idle.fbx'

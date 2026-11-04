@@ -1,0 +1,15 @@
+[animation]
+duration = 0.6666666865348816
+frames = 21
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = 'c81c4131a894776f'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/My Locomotion/Right Strafe.fbx'

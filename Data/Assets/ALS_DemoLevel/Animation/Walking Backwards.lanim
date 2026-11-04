@@ -1,0 +1,15 @@
+[animation]
+duration = 1.2000000476837158
+frames = 37
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = 'df4e1d52f2700e40'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/My Locomotion/Walking Backwards.fbx'
