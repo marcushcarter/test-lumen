@@ -8,5 +8,5 @@ mode = 'mesh_only'
 source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/ALS_DemoLevel.fbx'
 
 [model]
-materials = [ '', '', '', '', '', '', '', '', '', '', '', '', '', '', '' ]
+materials = []
 mesh = 'ad19c4cee3b7a81a'

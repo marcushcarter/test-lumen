@@ -1,0 +1,15 @@
+[animation]
+duration = 0.8333333134651184
+frames = 26
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = 'd2dc8fd412b1107d'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Standing Blendspace/Jog Forward.fbx'

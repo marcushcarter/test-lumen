@@ -1,0 +1,15 @@
+[animation]
+duration = 2.5333333015441895
+frames = 77
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = '2ec7373a1c67baae'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Overlays/Sword And Shield Idle.fbx'

@@ -1,0 +1,15 @@
+[animation]
+duration = 0.7333333492279053
+frames = 23
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = '0b91fe1592eaf92a'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Standing Blendspace/Jog Strafe Right.fbx'

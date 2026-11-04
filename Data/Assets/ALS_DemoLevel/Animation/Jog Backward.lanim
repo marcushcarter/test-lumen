@@ -1,0 +1,15 @@
+[animation]
+duration = 0.800000011920929
+frames = 25
+loop = true
+skeleton = 'cf5599a60117e2c2'
+tracks = 39
+
+[asset]
+guid = 'c76eb800b0262a04'
+type = 6
+version = 1
+
+[import]
+clip = 'mixamo.com'
+source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Standing Blendspace/Jog Backward.fbx'
