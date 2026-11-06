@@ -1,0 +1,13 @@
+[asset]
+guid = '601c24b1ae3e5f87'
+type = 9
+version = 1
+
+[world]
+entities = []
+folders = []
+
+    [world.environment]
+    manual_ev100 = 15.0
+    sky_color = [ 0.25627532601356506, 0.2660846710205078, 0.4455958604812622 ]
+    sky_intensity = 8000.0

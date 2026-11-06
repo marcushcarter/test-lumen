@@ -9,7 +9,7 @@ kind = '2D'
 preview_mesh = 'ad19c4cee3b7a81a'
 
     [[blend_space.samples]]
-    clip = '0ccfe82a042529fb'
+    clip = '19a8c552da0f3a95'
     direction = 0.0
     position = 0.0
 

@@ -1,0 +1,14 @@
+[asset]
+guid = 'ca8bda9effe2adfe'
+type = 4
+version = 1
+
+[import]
+name = 'DefaultMaterial'
+source = 'D:/Dev/Assets/Models/primitives/plane.obj'
+
+[material]
+alpha_cutoff = 0.5
+alpha_mode = 'Opaque'
+mask_texture = ''
+two_sided = false

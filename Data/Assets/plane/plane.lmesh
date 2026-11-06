@@ -1,0 +1,19 @@
+[asset]
+guid = 'dfb2a8256880ad27'
+type = 2
+version = 1
+
+[import]
+dag_level = 'clustered_dag'
+group_size = 8
+load_skeleton = true
+max_levels = 10
+max_tris = 64
+max_verts = 64
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Models/primitives/plane.obj'
+translation = [ 0.0, 0.0, 0.0 ]
+
+[mesh]
+skinned = false
