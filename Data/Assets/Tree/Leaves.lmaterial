@@ -1,5 +1,5 @@
 [asset]
-guid = '08b63027296f54b2'
+guid = '5cafc7fe9edce17e'
 type = 4
 version = 1
 
@@ -10,5 +10,5 @@ source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 [material]
 alpha_cutoff = 0.31542953848838806
 alpha_mode = 'Masked'
-mask_texture = 'bebb909af4e13490'
+mask_texture = '3a889fa8334687fa'
 two_sided = true

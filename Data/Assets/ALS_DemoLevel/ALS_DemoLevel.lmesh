@@ -1,5 +1,5 @@
 [asset]
-guid = 'ad19c4cee3b7a81a'
+guid = 'a827f6ed5cb2fa15'
 type = 2
 version = 1
 
@@ -16,5 +16,5 @@ source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/sourc
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
-skeleton = 'cf5599a60117e2c2'
+skeleton = '0a2e87eec6075c74'
 skinned = true

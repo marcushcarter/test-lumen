@@ -6,10 +6,10 @@ version = 1
 [blend_space]
 axis = 'Speed'
 kind = '1D'
-preview_mesh = ''
+preview_mesh = 'a827f6ed5cb2fa15'
 
     [[blend_space.samples]]
-    clip = '0ccfe82a042529fb'
+    clip = '19a8c552da0f3a95'
     position = 0.0
 
     [[blend_space.samples]]

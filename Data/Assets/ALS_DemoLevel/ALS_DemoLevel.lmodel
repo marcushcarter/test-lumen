@@ -1,5 +1,5 @@
 [asset]
-guid = 'aa146ca36192475c'
+guid = '692ce86e21823daf'
 type = 3
 version = 1
 
@@ -8,5 +8,5 @@ mode = 'mesh_only'
 source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/ALS_DemoLevel.fbx'
 
 [model]
-materials = []
-mesh = 'ad19c4cee3b7a81a'
+materials = [ '', '', '', '', '', '', '', '', '', '', '', '', '', '', '' ]
+mesh = 'a827f6ed5cb2fa15'

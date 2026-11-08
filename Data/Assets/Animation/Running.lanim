@@ -2,6 +2,7 @@
 duration = 0.699999988079071
 frames = 22
 loop = true
+preview_mesh = 'a827f6ed5cb2fa15'
 skeleton = 'cf5599a60117e2c2'
 tracks = 39
 
