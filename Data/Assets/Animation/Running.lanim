@@ -2,15 +2,17 @@
 duration = 0.699999988079071
 frames = 22
 loop = true
-preview_mesh = 'f46d16cb9457d3c0'
-skeleton = 'cf5599a60117e2c2'
+skeleton = '5db27abd8ba3f737'
 tracks = 39
 
 [asset]
-guid = 'f0198c05f61114c7'
+guid = '7574f2ff438bf246'
 type = 6
 version = 1
 
 [import]
 clip = 'mixamo.com'
-source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/My Locomotion/Running.fbx'
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/Animations/Standing Blendspace/Running.fbx'
+translation = [ 0.0, 0.0, 0.0 ]

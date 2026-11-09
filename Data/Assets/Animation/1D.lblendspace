@@ -1,21 +1,21 @@
 [asset]
-guid = '89944d170223438c'
+guid = '7586fdb550141f71'
 type = 7
 version = 1
 
 [blend_space]
-axis = 'Speed'
+axis = 'speed'
 kind = '1D'
-preview_mesh = 'a827f6ed5cb2fa15'
+preview_mesh = '75eea57233341677'
 
     [[blend_space.samples]]
-    clip = '19a8c552da0f3a95'
+    clip = 'f183bb5b937fe9ba'
     position = 0.0
 
     [[blend_space.samples]]
-    clip = '20cef8dd261eb5e3'
+    clip = 'f4116efbe7049c5e'
     position = 1.399999976158142
 
     [[blend_space.samples]]
-    clip = 'f0198c05f61114c7'
+    clip = '7574f2ff438bf246'
     position = 6.0

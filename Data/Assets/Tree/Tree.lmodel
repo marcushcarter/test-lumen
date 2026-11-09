@@ -1,5 +1,5 @@
 [asset]
-guid = 'b07b2bfb93e68715'
+guid = '2508a708baaa45f7'
 type = 3
 version = 1
 
@@ -8,5 +8,5 @@ mode = 'full'
 source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 
 [model]
-materials = [ '3042f722a6109024', '5cafc7fe9edce17e' ]
-mesh = '7b1450df71a2805e'
+materials = [ '44fe47c8b88009f5', '62eeddcb5456f509' ]
+mesh = 'a525901f55671212'

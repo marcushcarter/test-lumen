@@ -2,15 +2,17 @@
 duration = 1.2000000476837158
 frames = 37
 loop = true
-preview_mesh = 'f46d16cb9457d3c0'
-skeleton = 'cf5599a60117e2c2'
+skeleton = '5db27abd8ba3f737'
 tracks = 39
 
 [asset]
-guid = 'df4e1d52f2700e40'
+guid = 'ed32400348614e3b'
 type = 6
 version = 1
 
 [import]
 clip = 'mixamo.com'
-source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/My Locomotion/Walking Backwards.fbx'
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/Animations/Standing Blendspace/Walking Backwards.fbx'
+translation = [ 0.0, 0.0, 0.0 ]

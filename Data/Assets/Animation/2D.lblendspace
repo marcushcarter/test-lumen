@@ -1,54 +1,54 @@
 [asset]
-guid = 'b8c9c4ab559809ca'
+guid = '490646bd46143556'
 type = 7
 version = 1
 
 [blend_space]
-axis = 'Speed'
+axis = 'speed'
 kind = '2D'
-preview_mesh = 'f46d16cb9457d3c0'
+preview_mesh = '75eea57233341677'
 
     [[blend_space.samples]]
-    clip = '19a8c552da0f3a95'
+    clip = 'f183bb5b937fe9ba'
     direction = 0.0
     position = 0.0
 
     [[blend_space.samples]]
-    clip = '20cef8dd261eb5e3'
+    clip = 'f4116efbe7049c5e'
     direction = 0.0
     position = 1.399999976158142
 
     [[blend_space.samples]]
-    clip = 'df4e1d52f2700e40'
+    clip = 'ed32400348614e3b'
     direction = 180.0
     position = 1.399999976158142
 
     [[blend_space.samples]]
-    clip = '5db8f90d36204f47'
+    clip = '35863f43689334a5'
     direction = -90.0
     position = 1.399999976158142
 
     [[blend_space.samples]]
-    clip = 'aa72499a0e61f5f4'
+    clip = 'df4a6b5c0946a71d'
     direction = 90.0
     position = 1.399999976158142
 
     [[blend_space.samples]]
-    clip = 'f0198c05f61114c7'
+    clip = '7574f2ff438bf246'
     direction = 0.0
     position = 6.0
 
     [[blend_space.samples]]
-    clip = '9717a1ba81fb2235'
+    clip = '4476f2e0f5a220c6'
     direction = 180.0
     position = 6.0
 
     [[blend_space.samples]]
-    clip = '5f0f42d1c14805bb'
+    clip = '67eb881bf9ab3bd9'
     direction = -90.0
     position = 6.0
 
     [[blend_space.samples]]
-    clip = 'c81c4131a894776f'
+    clip = 'c60e4f766308eabe'
     direction = 90.0
     position = 6.0

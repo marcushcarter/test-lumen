@@ -1,10 +1,11 @@
 [asset]
-guid = '7b1450df71a2805e'
+guid = 'a525901f55671212'
 type = 2
 version = 1
 
 [import]
 dag_level = 'clustered_dag'
+generate_collision = true
 group_size = 8
 load_skeleton = true
 max_levels = 10
@@ -16,4 +17,5 @@ source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
+collision = '2eec9c0301695842'
 skinned = false

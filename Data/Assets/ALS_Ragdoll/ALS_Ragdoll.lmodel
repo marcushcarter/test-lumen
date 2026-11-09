@@ -1,5 +1,5 @@
 [asset]
-guid = 'e48a160f5d7f5a98'
+guid = '72e9043710b14e20'
 type = 3
 version = 1
 
@@ -8,5 +8,5 @@ mode = 'full'
 source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
 
 [model]
-materials = [ '7e5c2160f017b7e1' ]
-mesh = 'f46d16cb9457d3c0'
+materials = [ 'c89039cb1e8b20f2' ]
+mesh = '75eea57233341677'

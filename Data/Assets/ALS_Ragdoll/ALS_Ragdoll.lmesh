@@ -1,10 +1,11 @@
 [asset]
-guid = 'f46d16cb9457d3c0'
+guid = '75eea57233341677'
 type = 2
 version = 1
 
 [import]
 dag_level = 'clustered_dag'
+generate_collision = true
 group_size = 8
 load_skeleton = true
 max_levels = 10
@@ -16,5 +17,6 @@ source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
-skeleton = '4ed174f00a2655ac'
+collision = 'f8f49ed8231cbd41'
+skeleton = '5db27abd8ba3f737'
 skinned = true

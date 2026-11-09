@@ -1,13 +1,13 @@
 [asset]
-guid = '1fe1f957c0c5a914'
+guid = '66c5d9e4f2bfe8ba'
 type = 8
 version = 1
 
 [overlay]
 fade = 0.20000000298023224
 mode = 'Override'
-preview_blend_space = 'b8c9c4ab559809ca'
-source = '2ec7373a1c67baae'
+preview_blend_space = '490646bd46143556'
+source = 'e49690f78b098b33'
 
     [overlay.mask]
     branches = [ 'clavicle_l' ]

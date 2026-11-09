@@ -1,25 +1,6 @@
 [asset]
-guid = '00c7894c20582f64'
+guid = '3fe7a3252e67a74d'
 type = 9
 version = 1
 
 [world]
-folders = []
-
-    [world.environment]
-    manual_ev100 = 14.949999809265137
-
-    [[world.entities]]
-    guid = '2fd6fba158edcbd0'
-    tags = [ 'static' ]
-
-        [world.entities.model]
-        model = '692ce86e21823daf'
-
-        [world.entities.name]
-        name = 'Model'
-
-        [world.entities.transform]
-        position = [ 0.0, 0.0, 0.0 ]
-        rotation = [ 0.0, 0.0, 0.0, 1.0 ]
-        scale = [ 1.0, 1.0, 1.0 ]

@@ -1,16 +1,18 @@
 [animation]
-duration = 1.9666666984558105
-frames = 60
+duration = 8.333333015441895
+frames = 251
 loop = true
-preview_mesh = 'f46d16cb9457d3c0'
-skeleton = 'cf5599a60117e2c2'
+skeleton = '5db27abd8ba3f737'
 tracks = 39
 
 [asset]
-guid = '19a8c552da0f3a95'
+guid = 'f183bb5b937fe9ba'
 type = 6
 version = 1
 
 [import]
 clip = 'mixamo.com'
-source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/Animations/Standing Blendspace/Idle3.fbx'
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/Animations/Standing Blendspace/Idle.fbx'
+translation = [ 0.0, 0.0, 0.0 ]

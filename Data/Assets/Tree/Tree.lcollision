@@ -1,0 +1,21 @@
+[asset]
+guid = '2eec9c0301695842'
+type = 11
+version = 1
+
+[collision]
+mesh = 'a525901f55671212'
+source_triangles = 175814
+triangles = 411
+type = 'mesh'
+vertices = 261
+
+[import]
+error = 0.05000000074505806
+exclude_masked = true
+min_feature = 0.44999998807907104
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
+translation = [ 0.0, 0.0, 0.0 ]
+type = 'mesh'
