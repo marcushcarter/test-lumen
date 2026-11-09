@@ -1,0 +1,12 @@
+[asset]
+guid = 'e48a160f5d7f5a98'
+type = 3
+version = 1
+
+[import]
+mode = 'full'
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
+
+[model]
+materials = [ '7e5c2160f017b7e1' ]
+mesh = 'f46d16cb9457d3c0'

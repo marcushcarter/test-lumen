@@ -1,0 +1,14 @@
+[asset]
+guid = '7e5c2160f017b7e1'
+type = 4
+version = 1
+
+[import]
+name = 'M_Blue'
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
+
+[material]
+alpha_cutoff = 0.5
+alpha_mode = 'Opaque'
+mask_texture = ''
+two_sided = false

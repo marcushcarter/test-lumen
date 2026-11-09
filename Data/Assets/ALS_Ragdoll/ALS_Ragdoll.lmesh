@@ -1,5 +1,5 @@
 [asset]
-guid = 'a827f6ed5cb2fa15'
+guid = 'f46d16cb9457d3c0'
 type = 2
 version = 1
 
@@ -12,9 +12,9 @@ max_tris = 64
 max_verts = 64
 rotation = [ 0.0, 0.0, 0.0 ]
 scale = 1.0
-source = 'D:/Dev/Assets/Ragdolls/advanced-locomotion-system-base-character/source/ALS_DemoLevel.fbx'
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
-skeleton = '0a2e87eec6075c74'
+skeleton = '4ed174f00a2655ac'
 skinned = true

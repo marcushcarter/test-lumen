@@ -1,0 +1,11 @@
+[asset]
+guid = '4ed174f00a2655ac'
+type = 5
+version = 1
+
+[import]
+source = 'D:/Dev/Assets/Ragdolls/ALS_Ragdoll/ALS_Ragdoll.fbx'
+
+[skeleton]
+fingerprint = 'eba45bae518499eb'
+joints = 68
