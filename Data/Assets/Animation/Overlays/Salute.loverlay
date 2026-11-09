@@ -1,0 +1,15 @@
+[asset]
+guid = '8763170287b3e1b8'
+type = 8
+version = 1
+
+[overlay]
+fade = 2.0
+mode = 'Override'
+preview_blend_space = '7586fdb550141f71'
+source = 'f34fe8175b473b10'
+
+    [overlay.mask]
+    branches = [ 'clavicle_r' ]
+    depth = 0
+    exclude = []
