@@ -1,0 +1,12 @@
+[asset]
+guid = 'd5e49de2704d2b55'
+type = 3
+version = 1
+
+[import]
+mode = 'full'
+source = 'D:/Dev/Assets/Models/primitives/plane.obj'
+
+[model]
+materials = [ 'cb1f02001b73cb02' ]
+mesh = 'b5db9d7e28c97925'

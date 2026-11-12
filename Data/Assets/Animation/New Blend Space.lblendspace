@@ -1,0 +1,53 @@
+[asset]
+guid = '7227d018f163d37e'
+type = 7
+version = 1
+
+[blend_space]
+axis = 'speed'
+preview_mesh = '75eea57233341677'
+
+    [[blend_space.samples]]
+    clip = 'f183bb5b937fe9ba'
+    direction = 0.0
+    position = 0.0
+
+    [[blend_space.samples]]
+    clip = 'f4116efbe7049c5e'
+    direction = 0.0
+    position = 1.399999976158142
+
+    [[blend_space.samples]]
+    clip = 'ed32400348614e3b'
+    direction = 180.0
+    position = 1.399999976158142
+
+    [[blend_space.samples]]
+    clip = '35863f43689334a5'
+    direction = -90.0
+    position = 1.399999976158142
+
+    [[blend_space.samples]]
+    clip = 'df4a6b5c0946a71d'
+    direction = 90.0
+    position = 1.399999976158142
+
+    [[blend_space.samples]]
+    clip = '7574f2ff438bf246'
+    direction = 0.0
+    position = 6.0
+
+    [[blend_space.samples]]
+    clip = '4476f2e0f5a220c6'
+    direction = 180.0
+    position = 6.0
+
+    [[blend_space.samples]]
+    clip = '67eb881bf9ab3bd9'
+    direction = -90.0
+    position = 6.0
+
+    [[blend_space.samples]]
+    clip = 'c60e4f766308eabe'
+    direction = 90.0
+    position = 6.0

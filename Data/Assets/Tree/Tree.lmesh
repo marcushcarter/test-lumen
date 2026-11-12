@@ -4,6 +4,10 @@ type = 2
 version = 1
 
 [import]
+collision_error = 0.05000000074505806
+collision_exclude_masked = true
+collision_min_feature = 0.44999998807907104
+collision_type = 'mesh'
 dag_level = 'clustered_dag'
 generate_collision = true
 group_size = 8
@@ -17,5 +21,5 @@ source = 'D:/Dev/Assets/Models/realistic_high_poly_tree/scene.gltf'
 translation = [ 0.0, 0.0, 0.0 ]
 
 [mesh]
-collision = '2eec9c0301695842'
+collision = true
 skinned = false

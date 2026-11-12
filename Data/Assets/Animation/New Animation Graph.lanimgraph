@@ -1,0 +1,12 @@
+[anim_graph]
+entry = 0
+next_id = 1
+parameters = []
+preview_mesh = ''
+states = []
+transitions = []
+
+[asset]
+guid = '01b6b51921062185'
+type = 12
+version = 1
