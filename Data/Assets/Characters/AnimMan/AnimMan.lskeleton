@@ -1,0 +1,11 @@
+[asset]
+guid = '0d1bbf1c2f322e9d'
+type = 5
+version = 1
+
+[import]
+source = 'D:/Dev/Assets/UE5 ALS Project/Meshes/AnimMan.FBX'
+
+[skeleton]
+fingerprint = 'eba45bae518499eb'
+joints = 68

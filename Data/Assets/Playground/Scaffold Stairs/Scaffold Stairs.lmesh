@@ -1,0 +1,25 @@
+[asset]
+guid = '62e969d9d84714e5'
+type = 2
+version = 1
+
+[import]
+collision_error = 0.05000000074505806
+collision_exclude_masked = true
+collision_min_feature = 0.44999998807907104
+collision_type = 'mesh'
+dag_level = 'clustered_dag'
+generate_collision = true
+group_size = 8
+load_skeleton = true
+max_levels = 10
+max_tris = 64
+max_verts = 64
+rotation = [ 0.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/scaffold-stairs-steel-construction/source/scaffold stairs.fbx'
+translation = [ -20.0, 0.0, 0.0 ]
+
+[mesh]
+collision = true
+skinned = false

@@ -1,0 +1,18 @@
+[animation]
+duration = 2.0
+frames = 61
+loop = true
+skeleton = '0d1bbf1c2f322e9d'
+tracks = 68
+
+[asset]
+guid = '82dcaf4701c649d7'
+type = 6
+version = 1
+
+[import]
+clip = 'Unreal Take'
+rotation = [ -90.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/UE5 ALS Project/Animation Examples/Base/TurnInPlace/ALS_N_TurnIP_R180.FBX'
+translation = [ 0.0, 0.0, 0.0 ]

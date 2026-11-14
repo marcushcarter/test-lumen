@@ -1,0 +1,83 @@
+[asset]
+guid = '2f5a1d9985970665'
+type = 13
+version = 1
+
+[locomotion]
+air_control = 0.20000000298023224
+air_lean_angle = 10.0
+calf_bone_l = 'calf_l'
+calf_bone_r = 'calf_r'
+crouch_to_stand = '407c3781bca1c4d5'
+fall = 'bf1d3a64625ce85d'
+flip_feet = false
+foot_bone_l = 'foot_l'
+foot_bone_r = 'foot_r'
+foot_ik = true
+gravity = 9.8100004196167
+head_bone = 'head'
+heavy_land_speed = 9.0
+jump_left = '43ddfcb722fa17f1'
+jump_right = 'a976e15d94a4ddc8'
+jump_speed = 4.5
+jump_standing = 'bf1d3a64625ce85d'
+land_heavy = 'eaa2a6c013c90106'
+land_light = 'a50cfe2ca8c9467c'
+lean_angle = 8.0
+lean_bone_1 = 'spine_01'
+lean_bone_2 = 'spine_02'
+lean_bone_3 = 'spine_03'
+look_at = true
+look_pitch_limit = 40.0
+look_yaw_limit = 70.0
+neck_bone = 'neck_01'
+pelvis_bone = 'pelvis'
+stand_to_crouch = '8f2df0a10683092b'
+stop_left = ''
+stop_right = ''
+thigh_bone_l = 'thigh_l'
+thigh_bone_r = 'thigh_r'
+transition_left = ''
+transition_right = ''
+
+    [locomotion.crouching]
+    acceleration = 8.0
+    backward = '09f433b302487157'
+    braking = 12.0
+    forward = '478b990807b8283a'
+    idle = '1c39fcd489866872'
+    left_backward = '247d85787b829e0b'
+    left_forward = '247d85787b829e0b'
+    right_backward = '3ca3e21a803efad5'
+    right_forward = '3ca3e21a803efad5'
+    rotate_left = '55681c038302913c'
+    rotate_right = '2979daa9891ace17'
+    rotation_rate = 8.0
+    run_speed = 3.0
+    sprint_speed = 3.0
+    turn_left_180 = '69ab021ecfcd097b'
+    turn_left_90 = 'b8fbdf6137908006'
+    turn_right_180 = '05f299fae4b789ce'
+    turn_right_90 = '806b2bf282bb7a34'
+    walk_speed = 1.5
+
+    [locomotion.standing]
+    acceleration = 10.0
+    backward = 'a3ef3468e4c70591'
+    braking = 12.0
+    forward = '19256e86677e54b7'
+    idle = '997ec1c537efbf8a'
+    left_backward = 'd90bce3fe1d49867'
+    left_forward = '93d1e21772ff9d7b'
+    right_backward = '4a0d2e7c44867df7'
+    right_forward = '43c837636473483a'
+    rotate_left = 'f22ac0b368faa130'
+    rotate_right = 'aeded429cb5fa8a1'
+    rotation_rate = 8.0
+    run_speed = 3.5
+    sprint_speed = 6.0
+    turn_left_180 = '0cb3ccaaecb53cc4'
+    turn_left_90 = '8fff462879302f08'
+    turn_right_180 = '82dcaf4701c649d7'
+    turn_right_90 = 'e92f9bbf13ceb713'
+    walk_speed = 1.649999976158142

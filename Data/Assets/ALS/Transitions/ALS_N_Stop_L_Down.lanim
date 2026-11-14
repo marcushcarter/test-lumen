@@ -1,0 +1,18 @@
+[animation]
+duration = 2.3333332538604736
+frames = 71
+loop = true
+skeleton = '0d1bbf1c2f322e9d'
+tracks = 68
+
+[asset]
+guid = 'd352ddec73d4d010'
+type = 6
+version = 1
+
+[import]
+clip = 'Unreal Take'
+rotation = [ -90.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/UE5 ALS Project/Animation Examples/Base/Transitions/ALS_N_Stop_L_Down.FBX'
+translation = [ 0.0, 0.0, 0.0 ]

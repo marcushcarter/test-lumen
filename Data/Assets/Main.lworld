@@ -1,0 +1,146 @@
+[asset]
+guid = '99ded9b4ab970c0e'
+type = 9
+version = 1
+
+[world.environment]
+manual_ev100 = 15.0
+
+[[world.entities]]
+guid = 'ca6db72e29fb3e6c'
+tags = [ 'static' ]
+
+    [world.entities.collision]
+    friction = 0.5
+    mass = 10.0
+    motion = 0
+    restitution = 0.0
+    shape0_half_extents = [ 0.5, 0.5, 0.5 ]
+    shape0_half_height = 0.5
+    shape0_position = [ 0.0, 0.0, 0.0 ]
+    shape0_radius = 0.5
+    shape0_rotation = [ 0.0, 0.0, 0.0 ]
+    shape0_type = 3
+    shape_count = 1
+    trigger = false
+
+    [world.entities.model]
+    model = '767257103b1e8dba'
+
+    [world.entities.name]
+    name = 'Entity'
+
+    [world.entities.transform]
+    position = [ 0.0, 0.0, 0.0 ]
+    rotation = [ 0.0, 0.0, 0.0, 1.0 ]
+    scale = [ 100.0, 1.0, 100.0 ]
+
+[[world.entities]]
+guid = 'e9bbc6f4b01b761c'
+tags = [ 'player' ]
+
+    [world.entities.animation]
+    graph = ''
+
+    [world.entities.locomotion]
+    crouch_height = 1.2000000476837158
+    height = 1.7999999523162842
+    locomotion = '2f5a1d9985970665'
+    max_step_height = 0.4000000059604645
+    model_yaw = 0.0
+    radius = 0.30000001192092896
+
+    [world.entities.model]
+    model = '052b903a1ce3399d'
+
+    [world.entities.name]
+    name = 'Player'
+
+    [world.entities.transform]
+    position = [ 0.0, 0.0, 0.0 ]
+    rotation = [ 0.0, 0.0, 0.0, 1.0 ]
+    scale = [ 1.0, 1.0, 1.0 ]
+
+[[world.entities]]
+guid = '40122fbcef14b36a'
+tags = [ 'static' ]
+
+    [world.entities.collision]
+    friction = 0.5
+    mass = 10.0
+    motion = 0
+    restitution = 0.0
+    shape0_half_extents = [ 0.5, 0.5, 0.5 ]
+    shape0_half_height = 0.5
+    shape0_position = [ 0.0, 0.0, 0.0 ]
+    shape0_radius = 0.5
+    shape0_rotation = [ 0.0, 0.0, 0.0 ]
+    shape0_type = 3
+    shape_count = 1
+    trigger = false
+
+    [world.entities.model]
+    model = '1d7404a728eb1604'
+
+    [world.entities.name]
+    name = 'Model'
+
+    [world.entities.transform]
+    position = [ 487.3999938964844, 0.0, -209.10000610351562 ]
+    rotation = [ 0.0, 0.0, 0.0, 1.0 ]
+    scale = [ 1.2999999523162842, 1.0, 1.2999999523162842 ]
+
+[[world.entities]]
+guid = '6ad9e2084879fdf7'
+tags = [ 'static' ]
+
+    [world.entities.collision]
+    friction = 0.5
+    mass = 10.0
+    motion = 0
+    restitution = 0.0
+    shape0_half_extents = [ 0.5, 0.5, 0.5 ]
+    shape0_half_height = 0.5
+    shape0_position = [ 0.0, 0.0, 0.0 ]
+    shape0_radius = 0.5
+    shape0_rotation = [ 0.0, 0.0, 0.0 ]
+    shape0_type = 3
+    shape_count = 1
+    trigger = false
+
+    [world.entities.model]
+    model = 'b24f8c5635756786'
+
+    [world.entities.name]
+    name = 'Model'
+
+    [world.entities.transform]
+    position = [ 0.0, 0.0, 5.5 ]
+    rotation = [ 0.0, 0.0, 0.0, 1.0 ]
+    scale = [ 1.0, 1.0, 1.0 ]
+
+[[world.entities]]
+guid = 'c1467bd61eae573b'
+tags = [ 'hidden' ]
+
+    [world.entities.collision]
+    friction = 0.5
+    mass = 10.0
+    motion = 0
+    restitution = 0.0
+    shape0_half_extents = [ 0.5, 0.5, 0.5 ]
+    shape0_half_height = 0.5
+    shape0_position = [ 0.0, 0.0, 0.0 ]
+    shape0_radius = 0.5
+    shape0_rotation = [ 0.0, 0.0, 0.0 ]
+    shape0_type = 3
+    shape_count = 1
+    trigger = false
+
+    [world.entities.name]
+    name = 'Entity'
+
+    [world.entities.transform]
+    position = [ 0.0, 0.0, 0.0 ]
+    rotation = [ 0.0, 0.0, 0.0, 1.0 ]
+    scale = [ 0.009999999776482582, 0.009999999776482582, 0.009999999776482582 ]

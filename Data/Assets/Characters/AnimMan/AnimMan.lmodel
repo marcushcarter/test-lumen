@@ -1,0 +1,12 @@
+[asset]
+guid = '052b903a1ce3399d'
+type = 3
+version = 1
+
+[import]
+mode = 'mesh_only'
+source = 'D:/Dev/Assets/UE5 ALS Project/Meshes/AnimMan.FBX'
+
+[model]
+materials = [ '', '', '', '', '', '', '', '', '', '', '', '', '', '', '' ]
+mesh = '3b8631435d1ab107'

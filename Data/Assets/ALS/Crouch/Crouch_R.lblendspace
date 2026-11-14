@@ -1,0 +1,12 @@
+[asset]
+guid = '3ca3e21a803efad5'
+type = 7
+version = 1
+
+[blend_space]
+preview_mesh = ''
+
+    [[blend_space.samples]]
+    clip = '10f43638da8a06d8'
+    position = 1.0
+    speed = 1.5

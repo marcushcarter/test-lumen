@@ -1,0 +1,18 @@
+[animation]
+duration = 1.1333333253860474
+frames = 35
+loop = true
+skeleton = '0d1bbf1c2f322e9d'
+tracks = 68
+
+[asset]
+guid = '5e4755da4ce26562'
+type = 6
+version = 1
+
+[import]
+clip = 'Unreal Take'
+rotation = [ -90.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/UE5 ALS Project/Animation Examples/Base/Locomotion/ALS_N_WalkPose_L.FBX'
+translation = [ 0.0, 0.0, 0.0 ]

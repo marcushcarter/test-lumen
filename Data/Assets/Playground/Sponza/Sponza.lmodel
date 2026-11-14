@@ -1,0 +1,12 @@
+[asset]
+guid = '6115b2b6cf2568d2'
+type = 3
+version = 1
+
+[import]
+mode = 'mesh_only'
+source = 'D:/Dev/Assets/Models/sponza/sponza.obj'
+
+[model]
+materials = [ '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '' ]
+mesh = '0a94c4119f4fe5cf'

@@ -1,0 +1,12 @@
+[asset]
+guid = 'b24f8c5635756786'
+type = 3
+version = 1
+
+[import]
+mode = 'mesh_only'
+source = 'D:/ramp_3d_model/scene.gltf'
+
+[model]
+materials = [ '' ]
+mesh = '3b8bf3ecdd97fc6d'

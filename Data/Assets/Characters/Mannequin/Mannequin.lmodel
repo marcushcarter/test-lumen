@@ -1,0 +1,12 @@
+[asset]
+guid = '47023d13367ebae2'
+type = 3
+version = 1
+
+[import]
+mode = 'mesh_only'
+source = 'D:/Dev/Assets/UE5 ALS Project/Meshes/Mannequin.FBX'
+
+[model]
+materials = [ '', '' ]
+mesh = '54d5495d4fa9f503'

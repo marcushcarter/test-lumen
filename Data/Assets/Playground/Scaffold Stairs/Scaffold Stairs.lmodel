@@ -1,0 +1,12 @@
+[asset]
+guid = '1d7404a728eb1604'
+type = 3
+version = 1
+
+[import]
+mode = 'mesh_only'
+source = 'D:/scaffold-stairs-steel-construction/source/scaffold stairs.fbx'
+
+[model]
+materials = [ '' ]
+mesh = '62e969d9d84714e5'

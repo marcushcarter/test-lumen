@@ -1,0 +1,18 @@
+[animation]
+duration = 1.0
+frames = 31
+loop = true
+skeleton = '0d1bbf1c2f322e9d'
+tracks = 68
+
+[asset]
+guid = '98dbe5f19fbbb189'
+type = 6
+version = 1
+
+[import]
+clip = 'Unreal Take'
+rotation = [ -90.0, 0.0, 0.0 ]
+scale = 1.0
+source = 'D:/Dev/Assets/UE5 ALS Project/Animation Examples/Base/InAir/ALS_N_FallLoop_Fast.FBX'
+translation = [ 0.0, 0.0, 0.0 ]
